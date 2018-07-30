@@ -282,3 +282,4 @@ pip-selfcheck.json
 cookiescoops/media/
 
 .pytest_cache/
+/db.sqlite3
